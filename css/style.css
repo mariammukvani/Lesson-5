@@ -1,0 +1,13 @@
+.container {
+	width: 1331px;
+	margin: 0 auto;
+	background-color: red;
+}
+.block1 {
+	display: inline-block;
+	width: 636px;
+}
+.block2{
+	display: inline-block;
+	width: 636px;
+}
